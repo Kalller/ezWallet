@@ -35,26 +35,9 @@ All documents are located in the same folder as this README.
 - [Time Sheet](TimeSheet.md)  
 
 ---
-
-## How to Use EZWallet
-
-1. Clone or download this repository.  
-2. Review the requirements and estimation documents for an overview of the system design.  
-3. Explore the GUI prototypes for visual references.  
-4. Use the API documentation to integrate or test programmatically.  
-5. Check the test reports for validation and verification details.  
-
----
-
-## Project Goals
-
-- Provide a simple but powerful way to track expenses.  
-- Offer clear visualizations of spending habits.  
-- Support decision-making for personal and family budgeting.  
-
----
 ## Team Members
 -  Filippo Castellarin
 -  Marcello Vitaggio
 -  Edoardo Bonelli
 -  Ana Suarez Fabregas
+
